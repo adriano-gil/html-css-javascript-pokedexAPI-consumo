@@ -15,5 +15,8 @@ A Pokedex é uma aplicação simples que busca informações sobre os primeiros 
 
 ## Imagens
 
+### desktop screen
 ![desktop screen](assets/desktop-screen.png)
+
+### mobile screen
 ![mobile screen](assets/mobile-screen.png)
